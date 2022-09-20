@@ -5,7 +5,9 @@ It is a Basic Banking System for making transactions between users. It can trans
 
 Stack used - Front-end : HTML, CSS, Bootstrap & Javascript 
 
-             Back-end : PHP Database : MySQL
+             Back-end : PHP
+             
+             Database : MySQL
              
 Database contains two Tables- Users Table & Transaction Table
 
