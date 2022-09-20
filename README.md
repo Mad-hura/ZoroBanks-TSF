@@ -6,4 +6,4 @@ Stack used - Front-end : HTML, CSS, Bootstrap & Javascript
              Back-end : PHP Database : MySQL
 Database contains two Tables- Users Table & Transaction Table
 
-To check the contents of the my website and for dema you check out:zorosservices.000webhostapp.com
+To check the contents of the my website and for dema you check out: zorosservices.000webhostapp.com
